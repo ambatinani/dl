@@ -1,5 +1,5 @@
 <?php
-$con = new mysqli('localhost', 'root', 'admin', 'library');
+$con = new mysqli('localhost', 'root', 'U2FmzNDc6yyv28', 'library');
 
 // Check connection
 if ($con->connect_error) {
